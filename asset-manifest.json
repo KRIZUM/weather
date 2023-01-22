@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/KRIZUM/weather.git/static/css/main.2f641810.css",
-    "main.js": "/KRIZUM/weather.git/static/js/main.abdbb7d7.js",
+    "main.js": "/KRIZUM/weather.git/static/js/main.26d5e570.js",
     "static/media/cloud.png": "/KRIZUM/weather.git/static/media/cloud.93ea380a4d88cb8d7cf1.png",
     "static/media/storm-rain-svgrepo-com.svg": "/KRIZUM/weather.git/static/media/storm-rain-svgrepo-com.6c0e30bbab6505fa7818fb52a549026d.svg",
     "static/media/snow-svgrepo-com.svg.svg": "/KRIZUM/weather.git/static/media/snow-svgrepo-com.svg.8382bdcec0816c970e693ed0752a0151.svg",
     "index.html": "/KRIZUM/weather.git/index.html",
     "main.2f641810.css.map": "/KRIZUM/weather.git/static/css/main.2f641810.css.map",
-    "main.abdbb7d7.js.map": "/KRIZUM/weather.git/static/js/main.abdbb7d7.js.map"
+    "main.26d5e570.js.map": "/KRIZUM/weather.git/static/js/main.26d5e570.js.map"
   },
   "entrypoints": [
     "static/css/main.2f641810.css",
-    "static/js/main.abdbb7d7.js"
+    "static/js/main.26d5e570.js"
   ]
 }
