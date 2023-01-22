@@ -1,0 +1,17 @@
+.home {
+}
+
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.city_name{
+  resize: vertical;
+  padding:15px;
+  border-radius:15px;
+  border:0;
+  box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+  height:40px;
+  background-color: var(#{--components-background-default});
+}
